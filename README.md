@@ -8,7 +8,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 * [Installation](./tutorial/installation.md)
 * First Example
-  * Parser Generation
+  * [Parser Generation](./tutorial/parser_generation.md)
   * A Project Template For Parsing
   * Parsing
   * Changing Parser Actions

@@ -9,6 +9,6 @@ cargo install rustemo-compiler
 
 We can find the executable `rcomp` in `~/.cargo/bin`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Parser Generation](./parser_generation.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
