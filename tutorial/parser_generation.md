@@ -31,6 +31,6 @@ This command outputs two files: `my_grammar.rs` and `my_grammar_actions.rs`.
 
 This parser will be called later in this example when we need to parse an input string.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [A Project Template For Parsing](./a_project_template_for_parsing.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

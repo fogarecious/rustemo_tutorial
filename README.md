@@ -9,7 +9,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Installation](./tutorial/installation.md)
 * First Example
   * [Parser Generation](./tutorial/parser_generation.md)
-  * A Project Template For Parsing
+  * [A Project Template For Parsing](./tutorial/a_project_template_for_parsing.md)
   * Parsing
   * Changing Parser Actions
 * Workflow
@@ -22,8 +22,8 @@ We try to keep each part of the tutorial as simple as possible.
   * String Terminals
   * Regex Terminals
 * Grammar Rules
-  * Terminals In Expressions
-  * Grammar Symbols In Expressions
+  * Using Terminals In Expressions
+  * Using Grammar Symbols In Expressions
   * Empty String
   * Or
   * Optional
@@ -34,10 +34,11 @@ We try to keep each part of the tutorial as simple as possible.
   * Ambiguous Grammar
   * Disambiguation By Associativity
   * Disambiguation By Priority
-    * Production Priority
-    * Terminal Priority
   * Preference Of Grouping
-* Skipping Parts Of An Input
+* More About Priority
+  * Operator Precedence
+  * Terminal Priority
+* Skipping Parts Of Input
 
 ## Actions
 
