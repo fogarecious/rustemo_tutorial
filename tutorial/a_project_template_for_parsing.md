@@ -33,6 +33,6 @@ rustemo = "0.6.0"
 
 This project will be working together with the parser generated from the previous tutorial.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Parsing](./parsing.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

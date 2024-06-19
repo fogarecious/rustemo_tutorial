@@ -10,7 +10,7 @@ We try to keep each part of the tutorial as simple as possible.
 * First Example
   * [Parser Generation](./tutorial/parser_generation.md)
   * [A Project Template For Parsing](./tutorial/a_project_template_for_parsing.md)
-  * Parsing
+  * [Parsing](./tutorial/parsing.md)
   * Changing Parser Actions
 * Workflow
 
