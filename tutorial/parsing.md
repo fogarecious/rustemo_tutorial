@@ -43,7 +43,8 @@ Next, we can run the program:
 cargo run
 ```
 
-Here is a part of the output:
+The program outputs the progress of parsing the input.
+Here is the final part of the output:
 
 ```text
 Accept
@@ -79,6 +80,6 @@ We can see that the program transforms the input to a tree structure.
 
 By default, [Rustemo](https://github.com/igordejanovic/rustemo) parsers skip whitespaces in the input.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Parser Actions](./changing_parser_actions.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
