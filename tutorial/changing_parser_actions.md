@@ -51,6 +51,6 @@ Ok(
 
 The output shows `11`, which corresponds to the input `1 + 2 * 3 + 4`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Workflow](./workflow.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

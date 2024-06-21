@@ -12,7 +12,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [A Project Template For Parsing](./tutorial/a_project_template_for_parsing.md)
   * [Parsing](./tutorial/parsing.md)
   * [Changing Parser Actions](./tutorial/changing_parser_actions.md)
-* Workflow
+* [Workflow](./tutorial/workflow.md)
 
 ## Grammar
 
