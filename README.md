@@ -16,7 +16,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Grammar
 
-* Grammar File Format
+* [Grammar File Format](./tutorial/grammar_file_format.md)
 * Comments
 * Terminals
   * String Terminals
