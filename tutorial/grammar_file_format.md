@@ -60,6 +60,6 @@ The detail about grammar rules and terminal definitions will be explained later.
 
 The white spaces in the grammar file is skipped by `rcomp`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Comments](./comments.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
