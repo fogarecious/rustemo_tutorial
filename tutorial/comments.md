@@ -23,6 +23,6 @@ terminals
 A: 'a'; // the terminal A is parsed by parsing 'a'
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [String Terminals](./string_terminals.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

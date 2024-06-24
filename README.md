@@ -19,7 +19,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Grammar File Format](./tutorial/grammar_file_format.md)
 * [Comments](./tutorial/comments.md)
 * Terminals
-  * String Terminals
+  * [String Terminals](./tutorial/string_terminals.md)
   * Regex Terminals
 * Grammar Rules
   * Using Terminals In Expressions
