@@ -20,7 +20,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Comments](./tutorial/comments.md)
 * Terminals
   * [String Terminals](./tutorial/string_terminals.md)
-  * Regex Terminals
+  * [Regex Terminals](./tutorial/regex_terminals.md)
 * Grammar Rules
   * Using Terminals In Expressions
   * Using Grammar Symbols In Expressions

@@ -20,6 +20,6 @@ For example, `'\''` represents a single `'`.
 
 Similarly, if there is `\` intentionally in a string, it also needs to be replaced with `\\`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Regex Terminals](./regex_terminals.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
