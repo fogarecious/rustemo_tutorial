@@ -10,6 +10,6 @@ For more information about how to write a regular expression, readers can refer 
 
 Additionally, in the document of [Rustemo](https://github.com/igordejanovic/rustemo), it is suggested to always wrap alternative choices such as `A | B` in a pair of parentheses, i.e., `(A | B)`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Using Terminals In Expressions](./using_terminals_in_expressions.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

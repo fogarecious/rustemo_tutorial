@@ -22,7 +22,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [String Terminals](./tutorial/string_terminals.md)
   * [Regex Terminals](./tutorial/regex_terminals.md)
 * Grammar Rules
-  * Using Terminals In Expressions
+  * [Using Terminals In Expressions](./tutorial/using_terminals_in_expressions.md)
   * Using Grammar Symbols In Expressions
   * Empty String
   * Or
@@ -34,7 +34,7 @@ We try to keep each part of the tutorial as simple as possible.
   * Ambiguous Grammar
   * Disambiguation By Associativity
   * Disambiguation By Priority
-  * Preference Of Grouping
+    <!-- Production Priority -->
 * More About Priority
   * Operator Precedence
   * Terminal Priority
@@ -43,8 +43,8 @@ We try to keep each part of the tutorial as simple as possible.
 ## Actions
 
 * Names In The Action File
-  * Names For Terminals
-  * Names For Grammar Rules
+  * Default Names For Terminals
+  * Default Names For Grammar Rules
 * Default Actions
   * Default Actions For Terminals
   * Default Actions For Grammar Rules
