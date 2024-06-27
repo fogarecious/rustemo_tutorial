@@ -41,6 +41,6 @@ C: 'c';
 
 This grammar accepts exactly the string `abc` with optional white spaces allowed in between.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Using Grammar Symbols In Expressions](./using_grammar_symbols_in_expressions.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

@@ -23,7 +23,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Regex Terminals](./tutorial/regex_terminals.md)
 * Grammar Rules
   * [Using Terminals In Expressions](./tutorial/using_terminals_in_expressions.md)
-  * Using Grammar Symbols In Expressions
+  * [Using Grammar Symbols In Expressions](./tutorial/using_grammar_symbols_in_expressions.md)
   * Empty String
   * Or
   * Optional
