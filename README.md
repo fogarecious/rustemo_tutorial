@@ -24,7 +24,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Grammar Rules
   * [Using Terminals In Expressions](./tutorial/using_terminals_in_expressions.md)
   * [Using Grammar Symbols In Expressions](./tutorial/using_grammar_symbols_in_expressions.md)
-  * Empty String
+  * [Empty String](./tutorial/empty_string.md)
   * Or
   * Optional
   * One Or More

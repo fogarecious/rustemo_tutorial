@@ -28,6 +28,6 @@ C: 'c';
 
 This grammar accepts exactly the string `ababcab` with optional white spaces allowed in between.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Empty String](./empty_string.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
