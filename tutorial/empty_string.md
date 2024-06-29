@@ -9,6 +9,6 @@ S: EMPTY;
 
 This grammar only accepts the empty string with optional white spaces allowed.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Or](./or.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
