@@ -26,7 +26,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Using Grammar Symbols In Expressions](./tutorial/using_grammar_symbols_in_expressions.md)
   * [Empty String](./tutorial/empty_string.md)
   * [Or](./tutorial/or.md)
-  * Optional
+  * [Optional](./tutorial/optional.md)
   * One Or More
   * Zero Or More
   * Separators

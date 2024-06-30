@@ -21,6 +21,6 @@ One is `A` and the other is `B`.
 
 For a grammar rule that has no operators of alternatives, the grammar rule has only one production.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Optional](./optional.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
