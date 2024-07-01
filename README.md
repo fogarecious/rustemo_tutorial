@@ -27,7 +27,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Empty String](./tutorial/empty_string.md)
   * [Or](./tutorial/or.md)
   * [Optional](./tutorial/optional.md)
-  * One Or More
+  * [One Or More](./tutorial/one_or_more.md)
   * Zero Or More
   * Separators
 * Disambiguation
