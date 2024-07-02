@@ -24,6 +24,6 @@ A1: A1 A | A;
 
 We will explain `@vec` later.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Zero Or More](./zero_or_more.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

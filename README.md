@@ -28,7 +28,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Or](./tutorial/or.md)
   * [Optional](./tutorial/optional.md)
   * [One Or More](./tutorial/one_or_more.md)
-  * Zero Or More
+  * [Zero Or More](./tutorial/zero_or_more.md)
   * Separators
 * Disambiguation
   * Ambiguous Grammar
