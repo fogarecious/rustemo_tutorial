@@ -29,7 +29,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Optional](./tutorial/optional.md)
   * [One Or More](./tutorial/one_or_more.md)
   * [Zero Or More](./tutorial/zero_or_more.md)
-  * Separators
+  * [Separators](./tutorial/separators.md)
 * Disambiguation
   * Ambiguous Grammar
   * Disambiguation By Associativity
