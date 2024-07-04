@@ -41,6 +41,6 @@ This grammar accepts the empty string in addition to the accepted strings in the
 
 Note that both `A` and `Comma` in `A+[Comma]` and `A*[Comma]` can not only be a terminal but also a grammar symbol.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Ambiguous Grammar](./ambiguous_grammar.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

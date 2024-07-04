@@ -31,7 +31,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Zero Or More](./tutorial/zero_or_more.md)
   * [Separators](./tutorial/separators.md)
 * Disambiguation
-  * Ambiguous Grammar
+  * [Ambiguous Grammar](./tutorial/ambiguous_grammar.md)
   * Disambiguation By Associativity
   * Disambiguation By Priority
     <!-- Production Priority -->
