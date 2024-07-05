@@ -32,7 +32,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Separators](./tutorial/separators.md)
 * Disambiguation
   * [Ambiguous Grammar](./tutorial/ambiguous_grammar.md)
-  * Disambiguation By Associativity
+  * [Disambiguation By Associativity](./tutorial/disambiguation_by_associativity.md)
   * Disambiguation By Priority
     <!-- Production Priority -->
 * More About Priority

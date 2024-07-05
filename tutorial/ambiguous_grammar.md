@@ -27,6 +27,6 @@ The example is one of the ambiguous grammars.
 There are other ambiguous grammars.
 We will talk about how to deal with these grammars in the following tutorials.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Disambiguation By Associativity](./disambiguation_by_associativity.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
