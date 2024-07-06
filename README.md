@@ -33,8 +33,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Disambiguation
   * [Ambiguous Grammar](./tutorial/ambiguous_grammar.md)
   * [Disambiguation By Associativity](./tutorial/disambiguation_by_associativity.md)
-  * Disambiguation By Priority
-    <!-- Production Priority -->
+  * [Disambiguation By Priority](./tutorial/disambiguation_by_priority.md)
 * More About Priority
   * Operator Precedence
   * Terminal Priority
