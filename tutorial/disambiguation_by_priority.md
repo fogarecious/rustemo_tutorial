@@ -61,6 +61,6 @@ Ok(
 )
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Operator Precedence](./operator_precedence.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

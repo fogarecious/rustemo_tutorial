@@ -35,7 +35,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Disambiguation By Associativity](./tutorial/disambiguation_by_associativity.md)
   * [Disambiguation By Priority](./tutorial/disambiguation_by_priority.md)
 * More About Priority
-  * Operator Precedence
+  * [Operator Precedence](./tutorial/operator_precedence.md)
   * Terminal Priority
 * Skipping Parts Of Input
 
