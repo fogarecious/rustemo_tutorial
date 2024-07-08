@@ -35,6 +35,6 @@ A: /a/;
 
 Now string `a + a * a` is parsed as `a + (a * a)`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Terminal Priority](./terminal_priority.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
