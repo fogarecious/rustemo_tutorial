@@ -37,7 +37,7 @@ We try to keep each part of the tutorial as simple as possible.
 * More About Priority
   * [Operator Precedence](./tutorial/operator_precedence.md)
   * [Terminal Priority](./tutorial/terminal_priority.md)
-* Skipping Parts Of Input
+* [Skipping Parts Of Input](./tutorial/skipping_parts_of_input.md)
 
 ## Actions
 

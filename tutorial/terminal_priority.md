@@ -47,6 +47,6 @@ Ok(
 )
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Skipping Parts Of Input](./skipping_parts_of_input.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
