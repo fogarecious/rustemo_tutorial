@@ -31,6 +31,6 @@ This feature is for parts like comments that are not important in the input stri
 We can specify how to parse these comments by adding a grammar rule with grammar symbol `Layout`.
 The string parsed by `Layout` will be skipped automatically and will not be shown in the output.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Default Names For Terminals](./default_names_for_terminals.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

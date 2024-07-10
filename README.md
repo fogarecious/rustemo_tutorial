@@ -42,7 +42,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Actions
 
 * Names In The Action File
-  * Default Names For Terminals
+  * [Default Names For Terminals](./tutorial/default_names_for_terminals.md)
   * Default Names For Grammar Rules
 * Default Actions
   * Default Actions For Terminals
@@ -55,7 +55,7 @@ We try to keep each part of the tutorial as simple as possible.
     * Changing Types For Terminals
     * Changing Types For Grammar Rules
     * Using Vec As Types
-  * Changing Enum Value Names
+  * Changing Enum Variant Names
   * Changing Names Of Struct Fields And Function Parameters
 
 ## See Also
