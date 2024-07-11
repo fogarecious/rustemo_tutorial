@@ -31,6 +31,6 @@ This `fn` is associated with the terminal and will be introduced later.
 pub fn a(_ctx: &Ctx, token: Token) -> A
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Default Names For Grammar Rules](./default_names_for_grammar_rules.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
