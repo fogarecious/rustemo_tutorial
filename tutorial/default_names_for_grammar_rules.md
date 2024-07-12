@@ -70,6 +70,6 @@ pub fn s_c1(_ctx: &Ctx, x: X, y: Y) -> S { /* ... */ }
 pub fn s_c2(_ctx: &Ctx, y: Y, z: Z) -> S { /* ... */ }
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Default Actions For Terminals](./default_actions_for_terminals.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
