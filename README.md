@@ -46,7 +46,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Default Names For Grammar Rules](./tutorial/default_names_for_grammar_rules.md)
 * Default Actions
   * [Default Actions For Terminals](./tutorial/default_actions_for_terminals.md)
-  * Default Actions For Grammar Rules
+  * [Default Actions For Grammar Rules](./tutorial/default_actions_for_grammar_rules.md)
 * Custom Actions
   * Changing Actions
     * Changing Actions For Terminals

@@ -29,6 +29,6 @@ pub type Input = str;
 
 On the other hand, string terminals have no actions.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Default Actions For Grammar Rules](./default_actions_for_grammar_rules.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
