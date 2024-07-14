@@ -35,6 +35,6 @@ pub enum S {
 }
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Actions For Terminals](./changing_actions_for_terminals.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

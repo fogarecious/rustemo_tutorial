@@ -49,7 +49,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Default Actions For Grammar Rules](./tutorial/default_actions_for_grammar_rules.md)
 * Custom Actions
   * Changing Actions
-    * Changing Actions For Terminals
+    * [Changing Actions For Terminals](./tutorial/changing_actions_for_terminals.md)
     * Changing Actions For Grammar Rules
   * Changing Types
     * Changing Types For Terminals
