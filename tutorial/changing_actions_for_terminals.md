@@ -35,6 +35,6 @@ In the output, `A is parsed` will come before `Accept`, which means `fn a` is ex
 
 Since there is no actions for string terminals, we cannot change its behavior.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Actions For Grammar Rules](./changing_actions_for_grammar_rules.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

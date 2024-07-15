@@ -50,7 +50,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Custom Actions
   * Changing Actions
     * [Changing Actions For Terminals](./tutorial/changing_actions_for_terminals.md)
-    * Changing Actions For Grammar Rules
+    * [Changing Actions For Grammar Rules](./tutorial/changing_actions_for_grammar_rules.md)
   * Changing Types
     * Changing Types For Terminals
     * Changing Types For Grammar Rules
