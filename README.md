@@ -52,7 +52,7 @@ We try to keep each part of the tutorial as simple as possible.
     * [Changing Actions For Terminals](./tutorial/changing_actions_for_terminals.md)
     * [Changing Actions For Grammar Rules](./tutorial/changing_actions_for_grammar_rules.md)
   * Changing Types
-    * Changing Types For Terminals
+    * [Changing Types For Terminals](./tutorial/changing_types_for_terminals.md)
     * Changing Types For Grammar Rules
     * Using Vec As Types
   * Changing Enum Variant Names
