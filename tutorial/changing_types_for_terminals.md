@@ -49,6 +49,6 @@ Ok(
 
 There is no type modifications we can do to string terminals.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Types For Grammar Rules](./changing_types_for_grammar_rules.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
