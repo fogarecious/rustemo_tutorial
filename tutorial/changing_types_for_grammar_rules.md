@@ -79,6 +79,6 @@ Ok(
 )
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Using Vec As Types](./using_vec_as_types.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
