@@ -55,7 +55,7 @@ We try to keep each part of the tutorial as simple as possible.
     * [Changing Types For Terminals](./tutorial/changing_types_for_terminals.md)
     * [Changing Types For Grammar Rules](./tutorial/changing_types_for_grammar_rules.md)
     * [Using Vec As Types](./tutorial/using_vec_as_types.md)
-  * Changing Enum Variant Names
+  * [Changing Names Of Enum Variants And Functions](./tutorial/changing_names_of_enum_variants_and_functions.md)
   * Changing Names Of Struct Fields And Function Parameters
   * Combinations of Custom Actions
 

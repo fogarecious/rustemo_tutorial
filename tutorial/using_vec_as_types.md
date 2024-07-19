@@ -45,6 +45,6 @@ pub type S = Vec<A>;
 
 Operators `*` and `+` implicitly add `@vec` to the grammar rules they are in.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Names Of Enum Variants And Functions](./changing_names_of_enum_variants_and_functions.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
