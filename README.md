@@ -57,6 +57,13 @@ We try to keep each part of the tutorial as simple as possible.
     * [Using Vec As Types](./tutorial/using_vec_as_types.md)
   * Changing Enum Variant Names
   * Changing Names Of Struct Fields And Function Parameters
+  * Combinations of Custom Actions
+
+## Rcomp
+
+* List Of All Commands
+* Action File Regeneration
+* GLR Parser Generation
 
 ## See Also
 
