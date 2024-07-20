@@ -59,6 +59,6 @@ pub fn s_quadruple(_ctx: &Ctx) -> S { /* ... */ }
 
 This makes the action file more readable.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Changing Names Of Struct Fields And Function Parameters](./changing_names_of_struct_fields_and_function_parameters.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
