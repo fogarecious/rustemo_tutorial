@@ -62,6 +62,6 @@ And it also changes the names in the function parameters.
 pub fn s_add(_ctx: &Ctx, left: A, right: A) -> S { /* ... */ }
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Combinations of Custom Actions](./combinations_of_custom_actions.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

@@ -57,7 +57,7 @@ We try to keep each part of the tutorial as simple as possible.
     * [Using Vec As Types](./tutorial/using_vec_as_types.md)
   * [Changing Names Of Enum Variants And Functions](./tutorial/changing_names_of_enum_variants_and_functions.md)
   * [Changing Names Of Struct Fields And Function Parameters](./tutorial/changing_names_of_struct_fields_and_function_parameters.md)
-  * Combinations of Custom Actions
+  * [Combinations of Custom Actions](./tutorial/combinations_of_custom_actions.md)
 
 ## Rcomp
 
