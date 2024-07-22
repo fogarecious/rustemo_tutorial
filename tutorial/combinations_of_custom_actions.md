@@ -98,6 +98,6 @@ The output is:
 ((1 + (2 * 3)) + 4)
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [List Of All Commands](./list_of_all_commands.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
