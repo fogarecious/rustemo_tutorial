@@ -1,4 +1,4 @@
-# Unofficial Tutorial Of Rustemo
+# Simple Rustemo Tutorial
 
 [Rustemo](https://github.com/igordejanovic/rustemo) is a parser generator written in [Rust](https://www.rust-lang.org/), where a parser is able to parse some input according to a predefined grammar.
 This tutorial serves as a quick start for [Rustemo](https://github.com/igordejanovic/rustemo).
@@ -64,6 +64,10 @@ We try to keep each part of the tutorial as simple as possible.
 * List Of All Commands
 * Action File Regeneration
 * GLR Parser Generation
+
+## Misc.
+
+* Turning Off Log Output
 
 ## See Also
 
