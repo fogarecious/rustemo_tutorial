@@ -103,6 +103,6 @@ It outputs the same manual.
 rcomp -h
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Action File Regeneration](./action_file_regeneration.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

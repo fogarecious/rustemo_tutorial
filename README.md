@@ -62,7 +62,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Rcomp
 
 * [List Of All Commands](./tutorial/list_of_all_commands.md)
-* Action File Regeneration
+* [Action File Regeneration](./tutorial/action_file_regeneration.md)
 * GLR Parser Generation
 
 ## Misc.
