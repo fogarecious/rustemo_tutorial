@@ -17,6 +17,6 @@ There is the same but shorter command.
 rcomp -f my_grammar.rustemo
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [GLR Parser Generation](./glr_parser_generation.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
