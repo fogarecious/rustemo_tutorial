@@ -85,6 +85,6 @@ For input `1 + 2 + 3`, we can see from the output that there are two ways of par
 "(1 + (2 + 3))"
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Turning Off Log Output](./turning_off_log_output.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
