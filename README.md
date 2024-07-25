@@ -68,6 +68,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Misc.
 
 * Turning Off Log Output
+* Generating Parsers Automatically
 
 ## See Also
 
