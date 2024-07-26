@@ -82,6 +82,6 @@ For the debug mode, if we want to disable the log output, we can use the followi
 RUSTEMO_NOTRACE=1 cargo run
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Generating Parsers Automatically](./generating_parsers_automatically.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

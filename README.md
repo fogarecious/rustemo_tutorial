@@ -68,7 +68,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Misc.
 
 * [Turning Off Log Output](./tutorial/turning_off_log_output.md)
-* Generating Parsers Automatically
+* [Generating Parsers Automatically](./tutorial/generating_parsers_automatically.md)
 
 ## See Also
 
